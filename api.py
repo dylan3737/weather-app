@@ -31,4 +31,5 @@ for day in days:
         "Date: " + day["datetime"] + " " + "High: " + str(day["tempmax"]) + " " + "Low: " + str(day["tempmin"]) + " " + "Average: " + str(day["temp"])
           )
 
+print("nick was here")
 # TODO: Modify API Call to take in user input of zip-code
